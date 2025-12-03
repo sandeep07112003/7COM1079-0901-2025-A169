@@ -1,0 +1,15 @@
+Shapiro test (pre sample):
+
+	Shapiro-Wilk normality test
+
+data:  pre_sample
+W = 0.89759, p-value = 6.925e-12
+
+
+Shapiro test (post sample):
+
+	Shapiro-Wilk normality test
+
+data:  post_sample
+W = 0.85836, p-value < 2.2e-16
+
