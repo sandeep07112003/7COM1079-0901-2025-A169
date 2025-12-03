@@ -1,0 +1,1 @@
+Figure 1. Log(Volume + 1) boxplot comparing daily trading volumes before (pre) and on/after 1 January 2020 (post). Outliers shown as points; medians annotated. Log-transform used due to skewness.

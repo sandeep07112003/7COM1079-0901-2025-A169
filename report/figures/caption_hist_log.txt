@@ -1,0 +1,1 @@
+Figure 3. Histogram of Log(Volume + 1) with kernel density overlay, demonstrating reduced skewness.

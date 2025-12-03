@@ -1,0 +1,1 @@
+Figure 2. Histogram of daily trading volume (millions of shares) with overlaid normal curve for visual comparison. Shows right skew and heavy tail.
