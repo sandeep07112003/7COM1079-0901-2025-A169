@@ -5,10 +5,6 @@
 .Ruserdata
 
 # data
-/data/raw/
-/data/cleaned/
-/report/figures/*.png
-/report/figures/*.jpg
 
 # OS
 .DS_Store
