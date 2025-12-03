@@ -1,0 +1,5 @@
+Figure 1. Log(Volume + 1) boxplot comparing daily trading volumes before (pre) and on/after 1 January 2020 (post). Outliers shown as points; medians annotated. Log-transform used due to skewness.
+
+Figure 2. Histogram of daily trading volume (millions of shares) with overlaid normal curve for visual comparison. Shows right skew and heavy tail.
+
+Figure 3. Histogram of Log(Volume + 1) with kernel density overlay, demonstrating reduced skewness.
