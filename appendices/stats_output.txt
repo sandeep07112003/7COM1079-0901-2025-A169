@@ -1,0 +1,31 @@
+Welch two-sample t-test: post vs pre (logVolume)
+
+
+	Welch Two Sample t-test
+
+data:  post_vals and pre_vals
+t = 3.7245, df = 1499.8, p-value = 0.0002029
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1012901 0.3266869
+sample estimates:
+mean of x mean of y 
+ 16.35655  16.14256 
+
+
+Cohen's d (post vs pre):
+
+Cohen's d
+
+d estimate: 0.123744 (negligible)
+95 percent confidence interval:
+      lower       upper 
+-0.01306449  0.26055246 
+
+
+Descriptive summary (logVolume):
+# A tibble: 2 × 5
+  pre_post     n mean_log sd_log median_log
+  <fct>    <int>    <dbl>  <dbl>      <dbl>
+1 pre        246     16.1  0.344       16.1
+2 post      1259     16.4  1.88        16.6
