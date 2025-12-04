@@ -1,0 +1,39 @@
+Levene test for equality of variances (logVolume):
+Levene's Test for Homogeneity of Variance (center = median)
+        Df F value   Pr(>F)   
+group    1  7.1666 0.007508 **
+      1503                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Pooled t-test (var.equal=TRUE):
+
+	Two Sample t-test
+
+data:  post_vals and pre_vals
+t = 1.7752, df = 1503, p-value = 0.07607
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.02246848  0.45044556
+sample estimates:
+mean of x mean of y 
+ 16.35655  16.14256 
+
+
+Wilcoxon rank-sum test (logVolume):
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  post_vals and pre_vals
+W = 248807, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+Cohen's d (pooled) and Hedges' g:
+Cohen's d: 0.1237 
+Hedges' g: 0.1237 
+
+Bootstrap 95% CI for mean difference (post - pre) on logVolume:
+      2.5%      97.5% 
+0.09546527 0.32176010 
+
