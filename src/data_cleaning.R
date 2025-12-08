@@ -1,3 +1,12 @@
+# -----------------------------------------------
+# Rationale for log transformation (Added 2025-12-04)
+# Raw trading volume is extremely right-skewed.
+# Applying log(Volume + 1) compresses large values,
+# stabilises variance, and improves suitability for
+# statistical testing and visualisation.
+# -----------------------------------------------
+
+
 # src/data_cleaning.R
 library(readr); library(dplyr)
 
