@@ -2,7 +2,7 @@
 
 
 
-\*\*Dataset:\*\* Kaggle - Samsung Electronics historical prices  
+\*\*Dataset:\*\* Kaggle - Samsung Electronics historical prices
 
 \*\*Research Question (RQ):\*\* Is there a significant difference in the mean daily trading volume of Samsung Electronics before vs after 2020-01-01 (COVID-19)?
 
@@ -47,6 +47,20 @@
 
 
 (Replace with exact commands as scripts are added.)
+
+
+
+
+
+\### Notes (Added 2025-12-04)
+
+\- All scripts are modular and independent.
+
+\- Figures are generated programmatically to ensure reproducibility.
+
+\- Report structure follows UH guidelines.
+
+\- Dataset transformations are fully logged for transparency.
 
 
 
