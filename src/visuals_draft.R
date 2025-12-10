@@ -1,3 +1,12 @@
+# ================================================
+# Documentation Review (Added 2025-12-04)
+# This script generates exploratory, non-final visuals
+# used for understanding the dataset distribution.
+# No functional changes were introduced in this update.
+# ================================================
+
+
+
 # src/visuals_draft.R
 library(readr); library(dplyr); library(ggplot2)
 
